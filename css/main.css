@@ -1,0 +1,1277 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v10_15 {
+  width: 1440px;
+  height: 1024px;
+  background: rgba(129,166,201,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v10_16 {
+  width: 1397px;
+  height: 47px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  left: 18px;
+  border: 5px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v10_17 {
+  width: 1397px;
+  height: 47px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 213px;
+  left: 18px;
+  border: 5px solid rgba(0,0,0,1);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v10_18 {
+  width: 205px;
+  height: 100px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  left: 18px;
+  border-radius: 50%;
+}
+.v10_19 {
+  width: 451px;
+  height: 100px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  left: 242px;
+  border-radius: 50%;
+}
+.v10_20 {
+  width: 367px;
+  height: 99px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 100px;
+  left: 710px;
+  border-radius: 50%;
+}
+.v10_21 {
+  width: 320px;
+  height: 105px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 94px;
+  left: 1096px;
+  border-radius: 50%;
+}
+.v10_22 {
+  width: 261px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 763px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 47px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_23 {
+  width: 140px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 51px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_24 {
+  width: 215px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 1148px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_25 {
+  width: 303px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 316px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_204 {
+  width: 1220px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 389px;
+  left: 49px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v14_2 {
+  width: 100%;
+  height: 128px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 896px;
+  left: 0px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v10_26 {
+  width: 1440px;
+  height: 1024px;
+  background: rgba(129,166,201,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v10_37 {
+  background: url("C:\Users\Admin\OneDrive\Documenti\GitHub\ESERCITAZIONE-PRATICA-15-MAGGIO-GABRIEL-INCONTRO\v10_37(2).png");
+  width: 300px;
+  height: 300px;
+  opacity: 1;
+  position: absolute;
+  top: 331px;
+  left: 62px;
+}
+.v10_102 {
+  width: 735px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 325px;
+  left: 498px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_27 {
+  width: 1397px;
+  height: 47px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  left: 18px;
+  border: 5px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v10_28 {
+  width: 1397px;
+  height: 47px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 213px;
+  left: 18px;
+  border: 5px solid rgba(0,0,0,1);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v10_29 {
+  width: 205px;
+  height: 100px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  left: 18px;
+  border-radius: 50%;
+}
+.v10_30 {
+  width: 451px;
+  height: 100px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  left: 242px;
+  border-radius: 50%;
+}
+.v10_31 {
+  width: 367px;
+  height: 99px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 100px;
+  left: 710px;
+  border-radius: 50%;
+}
+.v10_32 {
+  width: 320px;
+  height: 105px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 94px;
+  left: 1096px;
+  border-radius: 50%;
+}
+.v10_33 {
+  width: 261px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 763px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 47px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_34 {
+  width: 140px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 51px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_35 {
+  width: 215px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 1148px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_36 {
+  width: 303px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 316px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_103 {
+  width: 100%;
+  height: 128px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 896px;
+  left: 0px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v10_104 {
+  width: 1440px;
+  height: 1024px;
+  background: rgba(129,166,201,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v10_106 {
+  width: 1397px;
+  height: 47px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  left: 18px;
+  border: 5px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v10_107 {
+  width: 1397px;
+  height: 47px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 213px;
+  left: 18px;
+  border: 5px solid rgba(0,0,0,1);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v10_108 {
+  width: 205px;
+  height: 100px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  left: 18px;
+  border-radius: 50%;
+}
+.v10_109 {
+  width: 451px;
+  height: 100px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  left: 242px;
+  border-radius: 50%;
+}
+.v10_110 {
+  width: 367px;
+  height: 99px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 100px;
+  left: 710px;
+  border-radius: 50%;
+}
+.v10_111 {
+  width: 320px;
+  height: 105px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 94px;
+  left: 1096px;
+  border-radius: 50%;
+}
+.v10_116 {
+  width: 100%;
+  height: 128px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 896px;
+  left: 0px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v10_112 {
+  width: 261px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 763px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 47px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_113 {
+  width: 140px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 51px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_114 {
+  width: 215px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 1148px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_115 {
+  width: 303px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 316px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_131 {
+  width: 510px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 381px;
+  left: 560px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_130 {
+  width: 296px;
+  height: 356px;
+  background: url("C:\Users\Admin\OneDrive\Documenti\GitHub\ESERCITAZIONE-PRATICA-15-MAGGIO-GABRIEL-INCONTRO\v10_130(2).png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 334px;
+  left: 58px;
+  overflow: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v10_117 {
+  width: 1440px;
+  height: 1024px;
+  background: rgba(129,166,201,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v10_119 {
+  width: 1397px;
+  height: 47px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  left: 18px;
+  border: 5px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v10_120 {
+  width: 1397px;
+  height: 47px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 213px;
+  left: 18px;
+  border: 5px solid rgba(0,0,0,1);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v10_121 {
+  width: 205px;
+  height: 100px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  left: 18px;
+  border-radius: 50%;
+}
+.v10_122 {
+  width: 451px;
+  height: 100px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  left: 242px;
+  border-radius: 50%;
+}
+.v10_123 {
+  width: 367px;
+  height: 99px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 100px;
+  left: 710px;
+  border-radius: 50%;
+}
+.v10_124 {
+  width: 320px;
+  height: 105px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 94px;
+  left: 1096px;
+  border-radius: 50%;
+}
+.v10_129 {
+  width: 100%;
+  height: 128px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 896px;
+  left: 0px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v10_125 {
+  width: 261px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 763px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 47px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_126 {
+  width: 140px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 51px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_127 {
+  width: 215px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 1148px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_128 {
+  width: 303px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 316px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_133 {
+  width: 438px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 317px;
+  left: 477px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_132 {
+  width: 314px;
+  height: 390px;
+  background: url("C:\Users\Admin\OneDrive\Documenti\GitHub\ESERCITAZIONE-PRATICA-15-MAGGIO-GABRIEL-INCONTRO\v10_132(2).png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 317px;
+  left: 51px;
+  overflow: hidden;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v10_134 {
+  width: 1440px;
+  height: 1024px;
+  background: rgba(129,166,201,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v10_136 {
+  width: 1397px;
+  height: 47px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  left: 18px;
+  border: 5px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v10_137 {
+  width: 1397px;
+  height: 47px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 213px;
+  left: 18px;
+  border: 5px solid rgba(0,0,0,1);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v10_138 {
+  width: 205px;
+  height: 100px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  left: 18px;
+  border-radius: 50%;
+}
+.v10_139 {
+  width: 451px;
+  height: 100px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  left: 242px;
+  border-radius: 50%;
+}
+.v10_140 {
+  width: 367px;
+  height: 99px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 100px;
+  left: 710px;
+  border-radius: 50%;
+}
+.v10_141 {
+  width: 320px;
+  height: 105px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 94px;
+  left: 1096px;
+  border-radius: 50%;
+}
+.v10_146 {
+  width: 100%;
+  height: 128px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 896px;
+  left: 0px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v10_142 {
+  width: 261px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 763px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 47px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_143 {
+  width: 140px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 51px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_144 {
+  width: 215px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 1148px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_145 {
+  width: 303px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 316px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_181 {
+  width: 747px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 373px;
+  left: 543px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_176 {
+  width: 298px;
+  height: 384px;
+  background: url("C:\Users\Admin\OneDrive\Documenti\GitHub\ESERCITAZIONE-PRATICA-15-MAGGIO-GABRIEL-INCONTRO\v10_176(2).png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 332px;
+  left: 46px;
+  overflow: hidden;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v10_148 {
+  width: 1440px;
+  height: 1024px;
+  background: rgba(129,166,201,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v10_150 {
+  width: 1397px;
+  height: 47px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  left: 18px;
+  border: 5px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v10_151 {
+  width: 1397px;
+  height: 47px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 213px;
+  left: 18px;
+  border: 5px solid rgba(0,0,0,1);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v10_152 {
+  width: 205px;
+  height: 100px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  left: 18px;
+  border-radius: 50%;
+}
+.v10_153 {
+  width: 451px;
+  height: 100px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  left: 242px;
+  border-radius: 50%;
+}
+.v10_154 {
+  width: 367px;
+  height: 99px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 100px;
+  left: 710px;
+  border-radius: 50%;
+}
+.v10_155 {
+  width: 320px;
+  height: 105px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 94px;
+  left: 1096px;
+  border-radius: 50%;
+}
+.v10_160 {
+  width: 100%;
+  height: 128px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 896px;
+  left: 0px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v10_156 {
+  width: 261px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 763px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 47px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_157 {
+  width: 140px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 51px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_158 {
+  width: 215px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 1148px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_159 {
+  width: 303px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 316px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_180 {
+  width: 747px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 360px;
+  left: 554px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_177 {
+  width: 405px;
+  height: 405px;
+  background: url("C:\Users\Admin\OneDrive\Documenti\GitHub\ESERCITAZIONE-PRATICA-15-MAGGIO-GABRIEL-INCONTRO\v10_177(2).png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 310px;
+  left: 51px;
+  overflow: hidden;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v10_162 {
+  width: 1440px;
+  height: 1024px;
+  background: rgba(129,166,201,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v10_164 {
+  width: 1397px;
+  height: 47px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  left: 18px;
+  border: 5px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v10_165 {
+  width: 1397px;
+  height: 47px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 213px;
+  left: 18px;
+  border: 5px solid rgba(0,0,0,1);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v10_166 {
+  width: 205px;
+  height: 100px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  left: 18px;
+  border-radius: 50%;
+}
+.v10_167 {
+  width: 451px;
+  height: 100px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  left: 242px;
+  border-radius: 50%;
+}
+.v10_168 {
+  width: 367px;
+  height: 99px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 100px;
+  left: 710px;
+  border-radius: 50%;
+}
+.v10_169 {
+  width: 320px;
+  height: 105px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 94px;
+  left: 1096px;
+  border-radius: 50%;
+}
+.v10_174 {
+  width: 100%;
+  height: 128px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 896px;
+  left: 0px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v10_170 {
+  width: 261px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 763px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 47px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_171 {
+  width: 140px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 51px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_172 {
+  width: 215px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 1148px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_173 {
+  width: 303px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 316px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_179 {
+  width: 892px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 359px;
+  left: 448px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_178 {
+  width: 339px;
+  height: 509px;
+  background: url("C:\Users\Admin\OneDrive\Documenti\GitHub\ESERCITAZIONE-PRATICA-15-MAGGIO-GABRIEL-INCONTRO\v10_178(2).png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 292px;
+  left: 51px;
+  overflow: hidden;
+}
+*{
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v10_182 {
+  width: 1440px;
+  height: 1024px;
+  background: rgba(129,166,201,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v10_183 {
+  width: 1397px;
+  height: 47px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  left: 18px;
+  border: 5px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v10_184 {
+  width: 1397px;
+  height: 47px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 213px;
+  left: 18px;
+  border: 5px solid rgba(0,0,0,1);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v10_185 {
+  width: 205px;
+  height: 100px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  left: 18px;
+  border-radius: 50%;
+}
+.v10_186 {
+  width: 451px;
+  height: 100px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  left: 242px;
+  border-radius: 50%;
+}
+.v10_187 {
+  width: 367px;
+  height: 99px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 100px;
+  left: 710px;
+  border-radius: 50%;
+}
+.v10_188 {
+  width: 320px;
+  height: 105px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 94px;
+  left: 1096px;
+  border-radius: 50%;
+}
+.v10_193 {
+  width: 100%;
+  height: 128px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 896px;
+  left: 0px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v10_189 {
+  width: 261px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 763px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 47px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_190 {
+  width: 140px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 51px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_191 {
+  width: 215px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 1148px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_192 {
+  width: 303px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 117px;
+  left: 316px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_205 {
+  width: 1220px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 389px;
+  left: 49px;
+  font-family: Joti One;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
